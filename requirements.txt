@@ -1,0 +1,5 @@
+streamlit
+deep-translator
+pyperclip
+gtts
+streamlit-mic-recorder
