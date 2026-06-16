@@ -1,0 +1,9 @@
+# Install Python Packages
+pip install streamlit deep-translator pyperclip
+
+# To add Text-to-Speech (TTS), we'll use the gTTS library
+py -m pip install gTTS
+py -m pip install streamlit deep-translator gTTS pyperclip
+
+# Run the Project
+streamlit run app.py / python -m streamlit run app.py
